@@ -8,6 +8,13 @@ Original file is located at
 
 # **Vamos analisar o sistema massa-mola a partir do método de Euler e explorar os detalhes da implementação**
 
+
+
+# TRANSLATION
+# ** Let's look at the spring mass system using the Euler method and explore the implementation details **
+
+
+
 # **1. Método de Euler**
 """
 
