@@ -1,4 +1,3 @@
-# discipline-works
 # Caroline Santos Corrêia, Brazilian
 # Bachelor in Applied Mathematics and Scientific Computing in University of São Paulo
 
